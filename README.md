@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm HeannaReis</h1>
+<h1 align="center">Hi 👋, I'm HeannaReis</h1>
 <h3 align="center">My passion is software developer</h3>
 <img align="right" alt="coding" width="390" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif">
 
